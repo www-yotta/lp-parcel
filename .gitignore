@@ -106,3 +106,6 @@ dist
 
 # Parcel cache file
 .parcel-cache
+
+# Parcel custom build
+build
